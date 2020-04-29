@@ -1,0 +1,155 @@
+body{
+    background-image: url("images/index.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+
+
+#aboutwrite{
+    padding-left: 25px;
+    color: #ffffff;
+
+    font-size: 17px;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#quicktitle2{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    color:#ffffff;
+    float: center;
+    font-size: 45px;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+#quicktitle{
+    padding-top: 85px;
+    padding-bottom: 35px;
+    color:#ffffff;
+    float: center;
+    font-size: 45px;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.searchbar{
+     font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+     padding: 10px;
+     padding-left: 15px;
+     float: center;
+     width: 580px;
+     border-top-left-radius: 10px;
+     border-bottom-left-radius: 10px;
+     border-style: solid;
+     background-color: white;
+     border-color: #ffffff;
+     font-size: 20px;
+     opacity: 0.8;
+     margin: 0px;
+}
+.searchbar:hover{
+    background-color: #eeeeee;
+    border-color: #eeeeee;
+}
+.hardbtn:hover{
+    background-color: #FFb926;
+    border-color: #FFb926;
+}
+.hardbtn{
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding: 10px;
+    background-color: #FFC926;
+    border-style: solid;
+    border-color: #FFC926;
+    border-top-right-radius: 10px;
+    font-size: 20px;
+    opacity: 0.9;
+    color: #ffffff;
+    border-bottom-right-radius: 10px;
+    margin: 0px;
+}
+
+#quicknav{
+
+ padding-bottom: 20px;
+ padding-left: 20px;
+
+}
+.aciklama{
+    color: #FFFFFF;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 5px;
+    float: center;
+}
+.navyazi2{
+    color: #FFFFFF;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 17.7px;
+    margin-left: 5px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: right;
+}
+.navyazi{
+    color: #FFFFFF;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 17.7px;
+    margin-left: 5px;
+    margin-right: 7px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#footer{
+    padding-left: 25px;
+    bottom: 0px;
+    position: fixed;
+    padding-bottom: 0.2px;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #ffffff;
+}
+#footer2{
+    padding-left: 25px;
+    bottom: 0px;
+    right: 0px;
+    position: fixed;
+    padding-bottom: 5px;
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    float:right;
+    padding-right: 5px;
+    color: #ffffff;
+}
+.bitcoin{
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+     padding: 8px;
+     padding-left: 15px;
+     float: center;
+     width: 500px;
+     border-radius: 10px;
+     border-style: solid;
+     border-color: #ffffff;
+     font-size: 16px;
+     opacity: 0.8;
+     margin: 0px;
+}
+#idea{
+
+    font-family: "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    padding: 8px;
+    padding-left: 15px;
+    float: left;
+    width: 500px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+    font-size: 16px;
+    opacity: 0.8;
+    margin: 0px;
+
+}
